@@ -6,7 +6,7 @@
       "properties": {
  	"color": "blue",
         "MicadID": 20975460,
-        "height": 40,
+        "height": 30,
         "base_height": 0,
         "Room": 33
       },
@@ -135,7 +135,7 @@
       "properties": {
         "color": "purple",
         "MicadID": 20975480,
-        "height": 40,
+        "height": 20,
         "base_height": 0,
         "Room": 35
       },
@@ -182,7 +182,7 @@
       "properties": {
         "color": "green",
         "MicadID": 20975490,
-        "height": 40,
+        "height": 30,
         "base_height": 0,
         "Room": 36
       },
@@ -306,7 +306,7 @@
       "properties": {
         "color": "Orange",
         "MicadID": 20975550,
-        "height": 40,
+        "height": 200,
         "base_height": 0,
         "Room": "40A"
       },
