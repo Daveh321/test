@@ -6,6 +6,8 @@
       "properties": {
  	"color": "blue",
         "MicadID": 20975460,
+        "height": 40,
+        "base_height": 0,
         "Room": 33
       },
       "geometry": {
@@ -86,6 +88,8 @@
       "properties": {
         "color": "red",
         "MicadID": 20975470,
+        "height": 40,
+        "base_height": 0,
         "Room": 34
       },
       "geometry": {
@@ -131,6 +135,8 @@
       "properties": {
         "color": "purple",
         "MicadID": 20975480,
+        "height": 40,
+        "base_height": 0,
         "Room": 35
       },
       "geometry": {
@@ -176,6 +182,8 @@
       "properties": {
         "color": "green",
         "MicadID": 20975490,
+        "height": 40,
+        "base_height": 0,
         "Room": 36
       },
       "geometry": {
@@ -226,6 +234,8 @@
       "properties": {
         "color": "#b26c21",
         "MicadID": 20975500,
+        "height": 40,
+        "base_height": 0,
         "Room": 37
       },
       "geometry": {
@@ -296,6 +306,8 @@
       "properties": {
         "color": "Orange",
         "MicadID": 20975550,
+        "height": 40,
+        "base_height": 0,
         "Room": "40A"
       },
       "geometry": {
@@ -336,6 +348,8 @@
       "properties": {
         "color": "rgb(88, 163, 172)",
         "MicadID": 20975540,
+        "height": 40,
+        "base_height": 0,
         "Room": "40"
       },
       "geometry": {
@@ -376,6 +390,8 @@
       "properties": {
         "color": "#58ac58",
         "MicadID": 20975560,
+        "height": 40,
+        "base_height": 0,
         "Room": "40B"
       },
       "geometry": {
@@ -416,6 +432,8 @@
       "properties": {
         "color": "#ac8658",
         "MicadID": 20975570,
+        "height": 40,
+        "base_height": 0,
         "Room": "40C"
       },
       "geometry": {
@@ -456,6 +474,8 @@
       "properties": {
         "color": "#a358ac",
         "MicadID": 20975690,
+        "height": 40,
+        "base_height": 0,
         "Room": "64"
       },
       "geometry": {
@@ -506,6 +526,8 @@
       "properties": {
         "color": "#ac5863",
         "MicadID": 20975700,
+        "height": 40,
+        "base_height": 0,
         "Room": "64A"
       },
       "geometry": {
@@ -546,6 +568,8 @@
       "properties": {
         "color": "#5874ac",
         "MicadID": 20975530,
+        "height": 40,
+        "base_height": 0,
         "Room": "39"
       },
       "geometry": {
@@ -636,6 +660,8 @@
       "properties": {
         "color": "#246045",
         "MicadID": 20975710,
+        "height": 40,
+        "base_height": 0,
         "Room": "64B"
       },
       "geometry": {
@@ -676,6 +702,8 @@
       "properties": {
         "color": "#5be6ff",
         "MicadID": 20975520,
+        "height": 40,
+        "base_height": 0,
         "Room": "38A"
       },
       "geometry": {
@@ -716,6 +744,8 @@
       "properties": {
         "color": "#c7e0cf",
         "MicadID": 20975510,
+        "height": 40,
+        "base_height": 0,
         "Room": "38"
       },
       "geometry": {
