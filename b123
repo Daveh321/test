@@ -742,10 +742,10 @@
     {
       "type": "Feature",
       "properties": {
-        "color": "#c7e0cf",
+        "color": "#03ad39",
         "MicadID": 20975510,
         "height": 40,
-        "base_height": 0,
+        "base_height": 30,
         "Room": "38"
       },
       "geometry": {
