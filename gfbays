@@ -1246,8 +1246,8 @@
       "properties": {
         "id": "24",
         "color": "null",
-        "height": 30,
-        "base_height": "0"
+        "height": 80,
+        "base_height": "50"
       },
       "geometry": {
         "type": "Polygon",
