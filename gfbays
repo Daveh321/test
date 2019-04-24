@@ -1245,7 +1245,7 @@
       "type": "Feature",
       "properties": {
         "id": "24",
-        "color": "#8A4480",
+        "color": "null",
         "height": 30,
         "base_height": "0"
       },
