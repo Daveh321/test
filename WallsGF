@@ -6,7 +6,7 @@
       "properties": {
         "id": "500",
         "color": "grey",
-        "height": 50
+        "height": 5
         "base_height": "0"
       },
       "geometry": {
