@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "1.91sq.m."
+        "ATT-AREA": "1.91sq.m.",
+        "height": 2
       },
       "geometry": {
         "type": "Point",
