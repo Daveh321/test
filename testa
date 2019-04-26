@@ -48,6 +48,22 @@
         "micadid": "20975130",
         "icon": "marker"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -0.176487576678799,
+           51.517695523708099
+        ]
+      },
+      "properties": {
+        "title": "3",
+        "area": "11.44sq.m.",
+        "micadid": "20975140",
+        "icon": "marker"
+      }
+    },
   ]
 }
