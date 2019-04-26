@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "1.91sq.m."
+        "ATT-AREA": "1.91sq.m.",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-NAME": "1"
+        "ATT-NAME": "1",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AUX": "20975110"
+        "ATT-AUX": "20975110",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "1.90sq.m."
+        "ATT-AREA": "1.90sq.m.",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +60,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-NAME": "01A"
+        "ATT-NAME": "01A",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +74,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AUX": "20975120"
+        "ATT-AUX": "20975120",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +88,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "24.07sq.m."
+        "ATT-AREA": "24.07sq.m.",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +102,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-NAME": "2"
+        "ATT-NAME": "2",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +116,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AUX": "20975130"
+        "ATT-AUX": "20975130",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +130,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "11.62sq.m."
+        "ATT-AREA": "11.62sq.m.",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +144,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-NAME": "3"
+        "ATT-NAME": "3",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -147,7 +158,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AUX": "20975140"
+        "ATT-AUX": "20975140",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +172,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "11.44sq.m."
+        "ATT-AREA": "11.44sq.m.",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +186,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-NAME": "4"
+        "ATT-NAME": "4",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +200,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AUX": "20975150"
+        "ATT-AUX": "20975150",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +214,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "14.29sq.m."
+        "ATT-AREA": "14.29sq.m.",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +228,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-NAME": "7"
+        "ATT-NAME": "7",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +242,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AUX": "20975160"
+        "ATT-AUX": "20975160",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -238,7 +256,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "9.22sq.m."
+        "ATT-AREA": "9.22sq.m.",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -251,7 +270,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-NAME": "5"
+        "ATT-NAME": "5",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -264,7 +284,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AUX": "20975170"
+        "ATT-AUX": "20975170",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -277,7 +298,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "10.52sq.m."
+        "ATT-AREA": "10.52sq.m.",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -290,7 +312,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-NAME": "6"
+        "ATT-NAME": "6",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -303,7 +326,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AUX": "20975180"
+        "ATT-AUX": "20975180",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -316,7 +340,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "21.98sq.m."
+        "ATT-AREA": "21.98sq.m.",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -329,7 +354,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-NAME": "8"
+        "ATT-NAME": "8",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -342,7 +368,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AUX": "20975190"
+        "ATT-AUX": "20975190",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -355,7 +382,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "5.29sq.m."
+        "ATT-AREA": "5.29sq.m.",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -368,7 +396,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-NAME": "9"
+        "ATT-NAME": "9",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +410,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AUX": "20975200"
+        "ATT-AUX": "20975200",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -394,7 +424,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "3.29sq.m."
+        "ATT-AREA": "3.29sq.m.",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +438,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-NAME": "10"
+        "ATT-NAME": "10",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -420,7 +452,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AUX": "20975210"
+        "ATT-AUX": "20975210",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -433,7 +466,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "1.09sq.m."
+        "ATT-AREA": "1.09sq.m.",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -446,7 +480,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-NAME": "10A"
+        "ATT-NAME": "10A",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -459,7 +494,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AUX": "20975220"
+        "ATT-AUX": "20975220",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -472,7 +508,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-AREA": "1.09sq.m."
+        "ATT-AREA": "1.09sq.m.",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -485,7 +522,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ATT-NAME": "10B"
+        "ATT-NAME": "10B",
+        "icon": "marker"
       },
       "geometry": {
         "type": "Point",
