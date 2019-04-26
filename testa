@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "title": "1",
+        "name": "1",
         "area": "1.91sq.m",
         "micadid": "20975110",
         "icon": "marker"
@@ -27,7 +27,7 @@
         ]
       },
       "properties": {
-        "title": "1A",
+        "name": "1A",
         "area": "1.90sq.m",
         "micadid": "20975120",
         "icon": "marker"
@@ -43,7 +43,7 @@
         ]
       },
       "properties": {
-        "title": "2",
+        "name": "2",
         "area": "24.07sq.m",
         "micadid": "20975130",
         "icon": "marker"
@@ -59,7 +59,7 @@
         ]
       },
       "properties": {
-        "title": "3",
+        "name": "3",
         "area": "11.44sq.m.",
         "micadid": "20975140",
         "icon": "marker"
