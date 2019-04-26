@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.176415290860558,
+          51.5177246679983
+        ]
+      },
+      "properties": {
+        "title": "1",
+        "area": "1.91sq.m",
+        "micadid": "20975110",
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.176436904483447,
+          51.5177119434369
+        ]
+      },
+      "properties": {
+        "title": "1A",
+        "area": "1.90sq.m",
+        "micadid": "20975120",
+        "icon": "marker"
+      }
+    }
+  ]
+}
