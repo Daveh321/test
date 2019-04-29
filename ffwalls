@@ -12,7 +12,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000",
-        "color": "yellow",
+        "color": "grey",
         "height": 10,
         "base_height": "5"
       },
