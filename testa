@@ -544,6 +544,66 @@
         "micadid": "20975460",
         "icon": "marker"
       }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+                            -0.176806142209504,
+                            51.517971136148098
+        ]
+      },
+      "properties": {
+        "name": "34",
+        "area": "10.05sq.m.",
+        "micadid": "20975470",
+        "icon": "marker"
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+                             -0.176834133815175,
+                             51.517989957454503
+        ]
+      },
+      "properties": {
+        "name": "35",
+        "area": "10.05sq.m.",
+        "micadid": "20975480",
+        "icon": "marker"
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+                              -0.17685976541676,
+                              51.518007276360699
+        ]
+      },
+      "properties": {
+        "name": "36",
+        "area": "10.45sq.m.",
+        "micadid": "20975490",
+        "icon": "marker"
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+                               -0.176878756126303,
+                               51.517945026024101
+        ]
+      },
+      "properties": {
+        "name": "37",
+        "area": "15.84sq.m.",
+        "micadid": "20975500",
+        "icon": "marker"
+      }
     }
   ]
 }
