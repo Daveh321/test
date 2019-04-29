@@ -124,8 +124,7 @@
         "micadid": "20975180",
         "icon": "marker"
       }
-    },
-    {
+    },{
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -138,6 +137,21 @@
         "name": "8",
         "area": "21.98sq.m.",
         "micadid": "20975190",
+        "icon": "marker"
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.176618534775052,
+            51.517763891239298
+        ]
+      },
+      "properties": {
+        "name": "9",
+        "area": "5.29sq.m.",
+        "micadid": "20975200",
         "icon": "marker"
       }
     }
