@@ -11,8 +11,10 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "1000",
+        "color": "yellow",
         "height": 10,
-        "base-height":20
+        "base_height": "5"
       },
       "geometry": {
         "type": "Polygon",
