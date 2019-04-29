@@ -664,6 +664,21 @@
         "micadid": "20975540",
         "icon": "marker"
       }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+                                  -0.176912563887925,
+                                  51.518004938105697
+        ]
+      },
+      "properties": {
+        "name": "40A",
+        "area": "2.84sq.m.",
+        "micadid": "20975550",
+        "icon": "marker"
+      }
     }
   ]
 }
