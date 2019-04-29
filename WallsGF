@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "id": "500",
-        "color": "yellow",
+        "color": "grey",
         "height": 5,
         "base_height": "0"
       },
