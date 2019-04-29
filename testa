@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "name": "1",
+        "name": "G-1",
         "area": "1.91sq.m",
         "micadid": "20975110",
         "icon": "marker"
@@ -27,7 +27,7 @@
         ]
       },
       "properties": {
-        "name": "1A",
+        "name": "G-1A",
         "area": "1.90sq.m",
         "micadid": "20975120",
         "icon": "marker"
@@ -43,7 +43,7 @@
         ]
       },
       "properties": {
-        "name": "2",
+        "name": "G-2",
         "area": "24.07sq.m",
         "micadid": "20975130",
         "icon": "marker"
@@ -59,7 +59,7 @@
         ]
       },
       "properties": {
-        "name": "3",
+        "name": "G-3",
         "area": "11.62sq.m.",
         "micadid": "20975140",
         "icon": "marker"
@@ -74,7 +74,7 @@
         ]
       },
       "properties": {
-        "name": "4",
+        "name": "G-4",
         "area": "11.44sq.m.",
         "micadid": "20975150",
         "icon": "marker"
@@ -89,7 +89,7 @@
         ]
       },
       "properties": {
-        "name": "7",
+        "name": "G-7",
         "area": "14.29sq.m.",
         "micadid": "20975160",
         "icon": "marker"
@@ -104,7 +104,7 @@
         ]
       },
       "properties": {
-        "name": "5",
+        "name": "G-5",
         "area": "9.22sq.m.",
         "micadid": "20975170",
         "icon": "marker"
@@ -119,7 +119,7 @@
         ]
       },
       "properties": {
-        "name": "6",
+        "name": "G-6",
         "area": "10.52sq.m.",
         "micadid": "20975180",
         "icon": "marker"
@@ -134,7 +134,7 @@
         ]
       },
       "properties": {
-        "name": "8",
+        "name": "G-8",
         "area": "21.98sq.m.",
         "micadid": "20975190",
         "icon": "marker"
@@ -149,7 +149,7 @@
         ]
       },
       "properties": {
-        "name": "9",
+        "name": "G-9",
         "area": "5.29sq.m.",
         "micadid": "20975200",
         "icon": "marker"
@@ -164,7 +164,7 @@
         ]
       },
       "properties": {
-        "name": "10",
+        "name": "G-10",
         "area": "3.29sq.m.",
         "micadid": "20975210",
         "icon": "marker"
@@ -179,7 +179,7 @@
         ]
       },
       "properties": {
-        "name": "10A",
+        "name": "G-10A",
         "area": "1.09sq.m.",
         "micadid": "20975220",
         "icon": "marker"
@@ -194,7 +194,7 @@
         ]
       },
       "properties": {
-        "name": "10B",
+        "name": "G-10B",
         "area": "1.09sq.m.",
         "micadid": "20975230",
         "icon": "marker"
@@ -209,7 +209,7 @@
         ]
       },
       "properties": {
-        "name": "10C",
+        "name": "G-10C",
         "area": "1.20sq.m.",
         "micadid": "20975240",
         "icon": "marker"
@@ -224,7 +224,7 @@
         ]
       },
       "properties": {
-        "name": "14",
+        "name": "G-14",
         "area": "3.96sq.m.",
         "micadid": "20975250",
         "icon": "marker"
@@ -239,7 +239,7 @@
         ]
       },
       "properties": {
-        "name": "14A",
+        "name": "G-14A",
         "area": "1.50sq.m.",
         "micadid": "20975260",
         "icon": "marker"
@@ -254,7 +254,7 @@
         ]
       },
       "properties": {
-        "name": "14B",
+        "name": "G-14B",
         "area": "1.28sq.m.",
         "micadid": "20975270",
         "icon": "marker"
@@ -269,7 +269,7 @@
         ]
       },
       "properties": {
-        "name": "17",
+        "name": "G-17",
         "area": "8.57sq.m.",
         "micadid": "20975280",
         "icon": "marker"
@@ -284,7 +284,7 @@
         ]
       },
       "properties": {
-        "name": "17A",
+        "name": "G-17A",
         "area": "0.32sq.m.",
         "micadid": "20975290",
         "icon": "marker"
@@ -299,7 +299,7 @@
         ]
       },
       "properties": {
-        "name": "19",
+        "name": "G-19",
         "area": "19.71sq.m.",
         "micadid": "20975300",
         "icon": "marker"
@@ -314,7 +314,7 @@
         ]
       },
       "properties": {
-        "name": "20",
+        "name": "G-20",
         "area": "19.68sq.m.",
         "micadid": "20975310",
         "icon": "marker"
@@ -329,7 +329,7 @@
         ]
       },
       "properties": {
-        "name": "21",
+        "name": "G-21",
         "area": "16.19sq.m.",
         "micadid": "20975320",
         "icon": "marker"
@@ -344,7 +344,7 @@
         ]
       },
       "properties": {
-        "name": "22",
+        "name": "G-22",
         "area": "20.42sq.m.",
         "micadid": "20975330",
         "icon": "marker"
@@ -359,7 +359,7 @@
         ]
       },
       "properties": {
-        "name": "22A",
+        "name": "G-22A",
         "area": "5.72sq.m.",
         "micadid": "20975340",
         "icon": "marker"
@@ -374,7 +374,7 @@
         ]
       },
       "properties": {
-        "name": "24",
+        "name": "G-24",
         "area": "12.21sq.m.",
         "micadid": "20975350",
         "icon": "marker"
@@ -389,7 +389,7 @@
         ]
       },
       "properties": {
-        "name": "25",
+        "name": "G-25",
         "area": "10.62sq.m.",
         "micadid": "20975360",
         "icon": "marker"
@@ -404,7 +404,7 @@
         ]
       },
       "properties": {
-        "name": "23",
+        "name": "G-23",
         "area": "0.81sq.m.",
         "micadid": "20975370",
         "icon": "marker"
@@ -419,7 +419,7 @@
         ]
       },
       "properties": {
-        "name": "26",
+        "name": "G-26",
         "area": "17.32sq.m.",
         "micadid": "20975380",
         "icon": "marker"
@@ -434,7 +434,7 @@
         ]
       },
       "properties": {
-        "name": "27",
+        "name": "G-27",
         "area": "14.03sq.m.",
         "micadid": "20975390",
         "icon": "marker"
@@ -449,7 +449,7 @@
         ]
       },
       "properties": {
-        "name": "28",
+        "name": "G-28",
         "area": "2.51sq.m.",
         "micadid": "20975400",
         "icon": "marker"
@@ -464,7 +464,7 @@
         ]
       },
       "properties": {
-        "name": "29",
+        "name": "G-29",
         "area": "4.71sq.m.",
         "micadid": "20975410",
         "icon": "marker"
@@ -479,7 +479,7 @@
         ]
       },
       "properties": {
-        "name": "30",
+        "name": "G-30",
         "area": "19.14sq.m.",
         "micadid": "20975420",
         "icon": "marker"
@@ -494,7 +494,7 @@
         ]
       },
       "properties": {
-        "name": "31",
+        "name": "G-31",
         "area": "17.05sq.m.",
         "micadid": "20975430",
         "icon": "marker"
@@ -509,7 +509,7 @@
         ]
       },
       "properties": {
-        "name": "32",
+        "name": "G-32",
         "area": "3.20sq.m.",
         "micadid": "20975440",
         "icon": "marker"
@@ -524,7 +524,7 @@
         ]
       },
       "properties": {
-        "name": "32A",
+        "name": "G-32A",
         "area": "3.40sq.m.",
         "micadid": "20975450",
         "icon": "marker"
@@ -539,7 +539,7 @@
         ]
       },
       "properties": {
-        "name": "33",
+        "name": "G-33",
         "area": "20.03sq.m.",
         "micadid": "20975460",
         "icon": "marker"
@@ -554,7 +554,7 @@
         ]
       },
       "properties": {
-        "name": "34",
+        "name": "G-34",
         "area": "10.05sq.m.",
         "micadid": "20975470",
         "icon": "marker"
@@ -569,7 +569,7 @@
         ]
       },
       "properties": {
-        "name": "35",
+        "name": "G-35",
         "area": "10.05sq.m.",
         "micadid": "20975480",
         "icon": "marker"
@@ -584,7 +584,7 @@
         ]
       },
       "properties": {
-        "name": "36",
+        "name": "G-36",
         "area": "10.45sq.m.",
         "micadid": "20975490",
         "icon": "marker"
@@ -599,7 +599,7 @@
         ]
       },
       "properties": {
-        "name": "37",
+        "name": "G-37",
         "area": "15.84sq.m.",
         "micadid": "20975500",
         "icon": "marker"
@@ -614,7 +614,7 @@
         ]
       },
       "properties": {
-        "name": "38",
+        "name": "G-38",
         "area": "0.53sq.m.",
         "micadid": "20975510",
         "icon": "marker"
@@ -629,7 +629,7 @@
         ]
       },
       "properties": {
-        "name": "38A",
+        "name": "G-38A",
         "area": "0.33sq.m.",
         "micadid": "20975520",
         "icon": "marker"
@@ -644,7 +644,7 @@
         ]
       },
       "properties": {
-        "name": "39",
+        "name": "G-39",
         "area": "22.34sq.m.",
         "micadid": "20975530",
         "icon": "marker"
@@ -659,7 +659,7 @@
         ]
       },
       "properties": {
-        "name": "40",
+        "name": "G-40",
         "area": "0.80sq.m.",
         "micadid": "20975540",
         "icon": "marker"
@@ -674,7 +674,7 @@
         ]
       },
       "properties": {
-        "name": "40A",
+        "name": "G-40A",
         "area": "2.84sq.m.",
         "micadid": "20975550",
         "icon": "marker"
@@ -689,7 +689,7 @@
         ]
       },
       "properties": {
-        "name": "40B",
+        "name": "G-40B",
         "area": "1.41sq.m.",
         "micadid": "20975560",
         "icon": "marker"
@@ -704,7 +704,7 @@
         ]
       },
       "properties": {
-        "name": "40C",
+        "name": "G-40C",
         "area": "1.29sq.m.",
         "micadid": "20975570",
         "icon": "marker"
@@ -719,7 +719,7 @@
         ]
       },
       "properties": {
-        "name": "46",
+        "name": "G-46",
         "area": "29.83sq.m.",
         "micadid": "20975580",
         "icon": "marker"
@@ -734,7 +734,7 @@
         ]
       },
       "properties": {
-        "name": "47",
+        "name": "G-47",
         "area": "4.61sq.m.",
         "micadid": "20975590",
         "icon": "marker"
@@ -749,7 +749,7 @@
         ]
       },
       "properties": {
-        "name": "48",
+        "name": "G-48",
         "area": "6.75sq.m.",
         "micadid": "20975600",
         "icon": "marker"
@@ -764,7 +764,7 @@
         ]
       },
       "properties": {
-        "name": "49",
+        "name": "G-49",
         "area": "7.01sq.m.",
         "micadid": "20975610",
         "icon": "marker"
@@ -779,7 +779,7 @@
         ]
       },
       "properties": {
-        "name": "50",
+        "name": "G-50",
         "area": "5.95sq.m.",
         "micadid": "20975620",
         "icon": "marker"
@@ -794,7 +794,7 @@
         ]
       },
       "properties": {
-        "name": "53",
+        "name": "G-53",
         "area": "32.66sq.m.",
         "micadid": "20975630",
         "icon": "marker"
@@ -809,7 +809,7 @@
         ]
       },
       "properties": {
-        "name": "54",
+        "name": "G-54",
         "area": "5.49sq.m.",
         "micadid": "20975640",
         "icon": "marker"
@@ -824,7 +824,7 @@
         ]
       },
       "properties": {
-        "name": "55",
+        "name": "G-55",
         "area": "2.80sq.m.",
         "micadid": "20975650",
         "icon": "marker"
@@ -839,7 +839,7 @@
         ]
       },
       "properties": {
-        "name": "53A",
+        "name": "G-53A",
         "area": "6.35sq.m.",
         "micadid": "20975660",
         "icon": "marker"
@@ -854,7 +854,7 @@
         ]
       },
       "properties": {
-        "name": "53B",
+        "name": "G-53B",
         "area": "1.31sq.m.",
         "micadid": "20975670",
         "icon": "marker"
@@ -869,7 +869,7 @@
         ]
       },
       "properties": {
-        "name": "53C",
+        "name": "G-53C",
         "area": "1.31sq.m.",
         "micadid": "20975680",
         "icon": "marker"
@@ -884,7 +884,7 @@
         ]
       },
       "properties": {
-        "name": "64",
+        "name": "G-64",
         "area": "3.75sq.m.",
         "micadid": "20975690",
         "icon": "marker"
@@ -899,7 +899,7 @@
         ]
       },
       "properties": {
-        "name": "64A",
+        "name": "G-64A",
         "area": "1.78sq.m.",
         "micadid": "20975700",
         "icon": "marker"
@@ -914,7 +914,7 @@
         ]
       },
       "properties": {
-        "name": "64B",
+        "name": "G-64B",
         "area": "2.63sq.m.",
         "micadid": "20975710",
         "icon": "marker"
@@ -929,7 +929,7 @@
         ]
       },
       "properties": {
-        "name": "31A",
+        "name": "G-31A",
         "area": "0.77sq.m.",
         "micadid": "20975720",
         "icon": "marker"
