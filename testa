@@ -199,6 +199,21 @@
         "micadid": "20975230",
         "icon": "marker"
       }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+             -0.176633947622073,
+             51.517793726698002 
+        ]
+      },
+      "properties": {
+        "name": "10C",
+        "area": "1.20sq.m.",
+        "micadid": "20975240",
+        "icon": "marker"
+      }
     }
   ]
 }
