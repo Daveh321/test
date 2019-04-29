@@ -244,6 +244,21 @@
         "micadid": "20975260",
         "icon": "marker"
       }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+                -0.176646149637256,
+                51.517800955143599
+        ]
+      },
+      "properties": {
+        "name": "14B",
+        "area": "1.28sq.m.",
+        "micadid": "20975270",
+        "icon": "marker"
+      }
     }
   ]
 }
