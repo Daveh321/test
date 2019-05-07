@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "id": "1",
-        "state_name": 1,
-        "state_id": 1
+        "STATE_NAME": 1,
+        "STATE_ID": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -60,8 +60,8 @@
       "type": "Feature",
       "properties": {
         "id": "2",
-        "state_name": 2,
-        "state_id": 2
+        "STATE_NAME": 2,
+        "STATE_ID": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -99,8 +99,8 @@
       "type": "Feature",
       "properties": {
         "id": "3",
-        "state_name": 3,
-        "state_id": 3
+        "STATE_NAME": 3,
+        "STATE_ID": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -146,8 +146,8 @@
       "type": "Feature",
       "properties": {
         "id": "4",
-        "state_name": 4,
-        "state_id": 4
+        "STATE_NAME": 4,
+        "STATE_ID": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -189,8 +189,8 @@
       "type": "Feature",
       "properties": {
         "id": "5",
-        "state_name": 5,
-        "state_id": 5
+        "STATE_NAME": 5,
+        "STATE_ID": 5
       },
       "geometry": {
         "type": "Polygon",
@@ -232,8 +232,8 @@
       "type": "Feature",
       "properties": {
         "id": "6",
-        "state_name": 6,
-        "state_id": 6
+        "STATE_NAME": 6,
+        "STATE_ID": 6
       },
       "geometry": {
         "type": "Polygon",
@@ -279,8 +279,8 @@
       "type": "Feature",
       "properties": {
         "id": "7",
-        "state_name": 7,
-        "state_id": 7
+        "STATE_NAME": 7,
+        "STATE_ID": 7
       },
       "geometry": {
         "type": "Polygon",
@@ -326,8 +326,8 @@
       "type": "Feature",
       "properties": {
         "id": "8",
-        "state_name": 8,
-        "state_id": 8
+        "STATE_NAME": 8,
+        "STATE_ID": 8
       },
       "geometry": {
         "type": "Polygon",
@@ -369,8 +369,8 @@
       "type": "Feature",
       "properties": {
         "id": "9",
-        "state_name": 9,
-        "state_id": 9
+        "STATE_NAME": 9,
+        "STATE_ID": 9
       },
       "geometry": {
         "type": "Polygon",
@@ -432,8 +432,8 @@
       "type": "Feature",
       "properties": {
         "id": "10",
-        "state_name": 10,
-        "state_id": 10
+        "STATE_NAME": 10,
+        "STATE_ID": 10
       },
       "geometry": {
         "type": "Polygon",
@@ -487,8 +487,8 @@
       "type": "Feature",
       "properties": {
         "id": "11",
-        "state_name": 11,
-        "state_id": 11
+        "STATE_NAME": 11,
+        "STATE_ID": 11
       },
       "geometry": {
         "type": "Polygon",
@@ -554,8 +554,8 @@
       "type": "Feature",
       "properties": {
         "id": "12",
-        "state_name": 12,
-        "state_id": 12
+        "STATE_NAME": 12,
+        "STATE_ID": 12
       },
       "geometry": {
         "type": "Polygon",
@@ -593,8 +593,8 @@
       "type": "Feature",
       "properties": {
         "id": "13",
-        "state_name": 13,
-        "state_id": 13
+        "STATE_NAME": 13,
+        "STATE_ID": 13
       },
       "geometry": {
         "type": "Polygon",
@@ -632,8 +632,8 @@
       "type": "Feature",
       "properties": {
         "id": "14",
-        "state_name": 14,
-        "state_id": 14
+        "STATE_NAME": 14,
+        "STATE_ID": 14
       },
       "geometry": {
         "type": "Polygon",
@@ -687,8 +687,8 @@
       "type": "Feature",
       "properties": {
         "id": "15",
-        "state_name": 15,
-        "state_id": 15
+        "STATE_NAME": 15,
+        "STATE_ID": 15
       },
       "geometry": {
         "type": "Polygon",
@@ -766,8 +766,8 @@
       "type": "Feature",
       "properties": {
         "id": "16",
-        "state_name": 16,
-        "state_id": 16
+        "STATE_NAME": 16,
+        "STATE_ID": 16
       },
       "geometry": {
         "type": "Polygon",
@@ -805,8 +805,8 @@
       "type": "Feature",
       "properties": {
         "id": "17",
-        "state_name": 17,
-        "state_id": 17
+        "STATE_NAME": 17,
+        "STATE_ID": 17
       },
       "geometry": {
         "type": "Polygon",
@@ -860,8 +860,8 @@
       "type": "Feature",
       "properties": {
         "id": "18",
-        "state_name": 18,
-        "state_id": 18
+        "STATE_NAME": 18,
+        "STATE_ID": 18
       },
       "geometry": {
         "type": "Polygon",
@@ -907,8 +907,8 @@
       "type": "Feature",
       "properties": {
         "id": "19",
-        "state_name": 19,
-        "state_id": 19
+        "STATE_NAME": 19,
+        "STATE_ID": 19
       },
       "geometry": {
         "type": "Polygon",
@@ -950,8 +950,8 @@
       "type": "Feature",
       "properties": {
         "id": "20",
-        "state_name": 20,
-        "state_id": 20
+        "STATE_NAME": 20,
+        "STATE_ID": 20
       },
       "geometry": {
         "type": "Polygon",
@@ -1009,8 +1009,8 @@
       "type": "Feature",
       "properties": {
         "id": "21",
-        "state_name": 21,
-        "state_id": 21
+        "STATE_NAME": 21,
+        "STATE_ID": 21
       },
       "geometry": {
         "type": "Polygon",
@@ -1068,8 +1068,8 @@
       "type": "Feature",
       "properties": {
         "id": "22",
-        "state_name": 22,
-        "state_id": 22
+        "STATE_NAME": 22,
+        "STATE_ID": 22
       },
       "geometry": {
         "type": "Polygon",
@@ -1139,8 +1139,8 @@
       "type": "Feature",
       "properties": {
         "id": "23",
-        "state_name": 23,
-        "state_id": 23
+        "STATE_NAME": 23,
+        "STATE_ID": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -1222,8 +1222,8 @@
       "type": "Feature",
       "properties": {
         "id": "24",
-        "state_name": 24,
-        "state_id": 24
+        "STATE_NAME": 24,
+        "STATE_ID": 24
       },
       "geometry": {
         "type": "Polygon",
@@ -1277,8 +1277,8 @@
       "type": "Feature",
       "properties": {
         "id": "25",
-        "state_name": 25,
-        "state_id": 25
+        "STATE_NAME": 25,
+        "STATE_ID": 25
       },
       "geometry": {
         "type": "Polygon",
@@ -1324,8 +1324,8 @@
       "type": "Feature",
       "properties": {
         "id": "26",
-        "state_name": 26,
-        "state_id": 26
+        "STATE_NAME": 26,
+        "STATE_ID": 26
       },
       "geometry": {
         "type": "Polygon",
@@ -1371,8 +1371,8 @@
       "type": "Feature",
       "properties": {
         "id": "27",
-        "state_name": 27,
-        "state_id": 27
+        "STATE_NAME": 27,
+        "STATE_ID": 27
       },
       "geometry": {
         "type": "Polygon",
@@ -1410,8 +1410,8 @@
       "type": "Feature",
       "properties": {
         "id": "28",
-        "state_name": 28,
-        "state_id": 28
+        "STATE_NAME": 28,
+        "STATE_ID": 28
       },
       "geometry": {
         "type": "Polygon",
@@ -1449,8 +1449,8 @@
       "type": "Feature",
       "properties": {
         "id": "29",
-        "state_name": 29,
-        "state_id": 29
+        "STATE_NAME": 29,
+        "STATE_ID": 29
       },
       "geometry": {
         "type": "Polygon",
@@ -1488,8 +1488,8 @@
       "type": "Feature",
       "properties": {
         "id": "30",
-        "state_name": 30,
-        "state_id": 30
+        "STATE_NAME": 30,
+        "STATE_ID": 30
       },
       "geometry": {
         "type": "Polygon",
@@ -1551,8 +1551,8 @@
       "type": "Feature",
       "properties": {
         "id": "31",
-        "state_name": 31,
-        "state_id": 31
+        "STATE_NAME": 31,
+        "STATE_ID": 31
       },
       "geometry": {
         "type": "Polygon",
@@ -1598,8 +1598,8 @@
       "type": "Feature",
       "properties": {
         "id": "32",
-        "state_name": 32,
-        "state_id": 32
+        "STATE_NAME": 32,
+        "STATE_ID": 32
       },
       "geometry": {
         "type": "Polygon",
@@ -1669,8 +1669,8 @@
       "type": "Feature",
       "properties": {
         "id": "33",
-        "state_name": 33,
-        "state_id": 33
+        "STATE_NAME": 33,
+        "STATE_ID": 33
       },
       "geometry": {
         "type": "Polygon",
@@ -1716,8 +1716,8 @@
       "type": "Feature",
       "properties": {
         "id": "34",
-        "state_name": 34,
-        "state_id": 34
+        "STATE_NAME": 34,
+        "STATE_ID": 34
       },
       "geometry": {
         "type": "Polygon",
@@ -1771,8 +1771,8 @@
       "type": "Feature",
       "properties": {
         "id": "35",
-        "state_name": 35,
-        "state_id": 35
+        "STATE_NAME": 35,
+        "STATE_ID": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -1842,8 +1842,8 @@
       "type": "Feature",
       "properties": {
         "id": "36",
-        "state_name": 36,
-        "state_id": 36
+        "STATE_NAME": 36,
+        "STATE_ID": 36
       },
       "geometry": {
         "type": "Polygon",
@@ -1885,8 +1885,8 @@
       "type": "Feature",
       "properties": {
         "id": "37",
-        "state_name": 37,
-        "state_id": 37
+        "STATE_NAME": 37,
+        "STATE_ID": 37
       },
       "geometry": {
         "type": "Polygon",
@@ -1928,8 +1928,8 @@
       "type": "Feature",
       "properties": {
         "id": "38",
-        "state_name": 38,
-        "state_id": 38
+        "STATE_NAME": 38,
+        "STATE_ID": 38
       },
       "geometry": {
         "type": "Polygon",
@@ -1975,8 +1975,8 @@
       "type": "Feature",
       "properties": {
         "id": "39",
-        "state_name": 39,
-        "state_id": 39
+        "STATE_NAME": 39,
+        "STATE_ID": 39
       },
       "geometry": {
         "type": "Polygon",
@@ -2038,8 +2038,8 @@
       "type": "Feature",
       "properties": {
         "id": "40",
-        "state_name": 40,
-        "state_id": 40
+        "STATE_NAME": 40,
+        "STATE_ID": 40
       },
       "geometry": {
         "type": "Polygon",
@@ -2077,8 +2077,8 @@
       "type": "Feature",
       "properties": {
         "id": "41",
-        "state_name": 41,
-        "state_id": 41
+        "STATE_NAME": 41,
+        "STATE_ID": 41
       },
       "geometry": {
         "type": "Polygon",
@@ -2116,8 +2116,8 @@
       "type": "Feature",
       "properties": {
         "id": "42",
-        "state_name": 42,
-        "state_id": 42
+        "STATE_NAME": 42,
+        "STATE_ID": 42
       },
       "geometry": {
         "type": "Polygon",
@@ -2195,8 +2195,8 @@
       "type": "Feature",
       "properties": {
         "id": "43",
-        "state_name": 43,
-        "state_id": 43
+        "STATE_NAME": 43,
+        "STATE_ID": 43
       },
       "geometry": {
         "type": "Polygon",
@@ -2234,8 +2234,8 @@
       "type": "Feature",
       "properties": {
         "id": "44",
-        "state_name": 44,
-        "state_id": 44
+        "STATE_NAME": 44,
+        "STATE_ID": 44
       },
       "geometry": {
         "type": "Polygon",
@@ -2273,8 +2273,8 @@
       "type": "Feature",
       "properties": {
         "id": "45",
-        "state_name": 45,
-        "state_id": 45
+        "STATE_NAME": 45,
+        "STATE_ID": 45
       },
       "geometry": {
         "type": "Polygon",
@@ -2312,8 +2312,8 @@
       "type": "Feature",
       "properties": {
         "id": "46",
-        "state_name": 46,
-        "state_id": 46
+        "STATE_NAME": 46,
+        "STATE_ID": 46
       },
       "geometry": {
         "type": "Polygon",
@@ -2351,8 +2351,8 @@
       "type": "Feature",
       "properties": {
         "id": "47",
-        "state_name": 47,
-        "state_id": 47
+        "STATE_NAME": 47,
+        "STATE_ID": 47
       },
       "geometry": {
         "type": "Polygon",
@@ -2514,8 +2514,8 @@
       "type": "Feature",
       "properties": {
         "id": "48",
-        "state_name": 48,
-        "state_id": 48
+        "STATE_NAME": 48,
+        "STATE_ID": 48
       },
       "geometry": {
         "type": "Polygon",
@@ -2565,8 +2565,8 @@
       "type": "Feature",
       "properties": {
         "id": "49",
-        "state_name": 49,
-        "state_id": 49
+        "STATE_NAME": 49,
+        "STATE_ID": 49
       },
       "geometry": {
         "type": "Polygon",
@@ -2620,8 +2620,8 @@
       "type": "Feature",
       "properties": {
         "id": "50",
-        "state_name": 50,
-        "state_id": 50
+        "STATE_NAME": 50,
+        "STATE_ID": 50
       },
       "geometry": {
         "type": "Polygon",
@@ -2671,8 +2671,8 @@
       "type": "Feature",
       "properties": {
         "id": "51",
-        "state_name": 51,
-        "state_id": 51
+        "STATE_NAME": 51,
+        "STATE_ID": 51
       },
       "geometry": {
         "type": "Polygon",
@@ -2726,8 +2726,8 @@
       "type": "Feature",
       "properties": {
         "id": "52",
-        "state_name": 52,
-        "state_id": 52
+        "STATE_NAME": 52,
+        "STATE_ID": 52
       },
       "geometry": {
         "type": "Polygon",
@@ -2781,8 +2781,8 @@
       "type": "Feature",
       "properties": {
         "id": "53",
-        "state_name": 53,
-        "state_id": 53
+        "STATE_NAME": 53,
+        "STATE_ID": 53
       },
       "geometry": {
         "type": "Polygon",
@@ -2824,8 +2824,8 @@
       "type": "Feature",
       "properties": {
         "id": "54",
-        "state_name": 54,
-        "state_id": 54
+        "STATE_NAME": 54,
+        "STATE_ID": 54
       },
       "geometry": {
         "type": "Polygon",
@@ -2867,8 +2867,8 @@
       "type": "Feature",
       "properties": {
         "id": "55",
-        "state_name": 55,
-        "state_id": 55
+        "STATE_NAME": 55,
+        "STATE_ID": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -2926,8 +2926,8 @@
       "type": "Feature",
       "properties": {
         "id": "56",
-        "state_name": 56,
-        "state_id": 56
+        "STATE_NAME": 56,
+        "STATE_ID": 56
       },
       "geometry": {
         "type": "Polygon",
@@ -2965,8 +2965,8 @@
       "type": "Feature",
       "properties": {
         "id": "57",
-        "state_name": 57,
-        "state_id": 57
+        "STATE_NAME": 57,
+        "STATE_ID": 57
       },
       "geometry": {
         "type": "Polygon",
@@ -3004,8 +3004,8 @@
       "type": "Feature",
       "properties": {
         "id": "58",
-        "state_name": 58,
-        "state_id": 58
+        "STATE_NAME": 58,
+        "STATE_ID": 58
       },
       "geometry": {
         "type": "Polygon",
@@ -3051,8 +3051,8 @@
       "type": "Feature",
       "properties": {
         "id": "59",
-        "state_name": 59,
-        "state_id": 59
+        "STATE_NAME": 59,
+        "STATE_ID": 59
       },
       "geometry": {
         "type": "Polygon",
@@ -3090,8 +3090,8 @@
       "type": "Feature",
       "properties": {
         "id": "60",
-        "state_name": 60,
-        "state_id": 60
+        "STATE_NAME": 60,
+        "STATE_ID": 60
       },
       "geometry": {
         "type": "Polygon",
@@ -3129,8 +3129,8 @@
       "type": "Feature",
       "properties": {
         "id": "61",
-        "state_name": 61,
-        "state_id": 61
+        "STATE_NAME": 61,
+        "STATE_ID": 61
       },
       "geometry": {
         "type": "Polygon",
@@ -3168,8 +3168,8 @@
       "type": "Feature",
       "properties": {
         "id": "62",
-        "state_name": 62,
-        "state_id": 62
+        "STATE_NAME": 62,
+        "STATE_ID": 62
       },
       "geometry": {
         "type": "Polygon",
