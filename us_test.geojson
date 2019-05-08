@@ -1059,7 +1059,7 @@
       "properties": {
         "STATE_ID": "53",
         "STATE_NAME": "Washington",
-         "color": "#448A68",
+        "color": "#448A68",
         "height": 3,
         "base_height": 0
       },
@@ -1631,7 +1631,7 @@
       "properties": {
         "STATE_ID": "47",
         "STATE_NAME": "Tennessee",
-         "color": "#A1D185",
+        "color": "#A1D185",
         "height": 3,
         "base_height": 0
       },
@@ -2397,7 +2397,7 @@
         "STATE_NAME": "Mississippi",
         "color": "#646A32",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 28
     },
@@ -2439,7 +2439,7 @@
         "STATE_NAME": "Missouri",
         "color": "#486A32",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 29
     },
@@ -2481,7 +2481,7 @@
         "STATE_NAME": "Montana",
         "color": "#EF00D6",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 30
     },
@@ -2647,7 +2647,7 @@
         "STATE_NAME": "Kansas",
         "color": "#EF005E",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 20
     },
@@ -2701,7 +2701,7 @@
         "STATE_NAME": "Indiana",
         "color": "#EF1900",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 18
     },
@@ -2759,7 +2759,7 @@
         "STATE_NAME": "Puerto Rico",
         "color": "#EF9100",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 72
     },
@@ -2813,7 +2813,7 @@
         "STATE_NAME": "South Dakota",
         "color": "#D6EF00",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 46
     },
@@ -2871,7 +2871,7 @@
         "STATE_NAME": "Massachusetts",
         "color": "#5FEF00",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 25
     },
@@ -2929,7 +2929,7 @@
         "STATE_NAME": "Virginia",
         "color": "#EF0000",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 51
     },
@@ -2975,7 +2975,7 @@
         "STATE_NAME": "District of Columbia",
         "color": "#EF7800",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 11
     },
@@ -3021,7 +3021,7 @@
         "STATE_NAME": "Iowa",
         "color": "#EFEF00",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 19
     },
@@ -3083,7 +3083,7 @@
         "STATE_NAME": "Arizona",
         "color": "#78EF00",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 4
     },
@@ -3125,7 +3125,7 @@
         "STATE_NAME": "Test80",
         "color": "#00EF00",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 80
     },
@@ -3167,7 +3167,7 @@
         "STATE_NAME": "Test81",
         "color": "#00EF78",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 81
     },
@@ -3217,7 +3217,7 @@
         "STATE_NAME": "Test82",
         "color": "#91EF00",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 82
     },
@@ -3259,7 +3259,7 @@
         "STATE_NAME": "Test83",
         "color": "#0019EF",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 83
     },
@@ -3301,7 +3301,7 @@
         "STATE_NAME": "Test84",
         "color": "#0091EF",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 84
     },
@@ -3343,7 +3343,7 @@
         "STATE_NAME": "Test85",
         "color": "#00EF5E",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 85
     },
@@ -3385,7 +3385,7 @@
         "STATE_NAME": "Test86",
         "color": "#EF0048",
         "height": 3,
-        "base_height": 0"
+        "base_height": 0
       },
       "id": 86
     }
