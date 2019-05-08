@@ -52,7 +52,10 @@
       },
       "properties": {
         "STATE_ID": "54",
-        "STATE_NAME": "West Virginia"
+        "STATE_NAME": "West Virginia",
+        "color": "red",
+        "height": "3",
+        "base_height": "0"
       },
       "id": 54
     },
