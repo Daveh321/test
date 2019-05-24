@@ -51,11 +51,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "54",
-        "STATE_NAME": "West Virginia",
         "color": "green",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 1,
+        "roomID": "G-1"
       },
       "id": 54
     },
@@ -93,11 +93,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "12",
-        "STATE_NAME": "Florida",
         "color": "blue",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 2,
+        "roomID": "G-1A"
       },
       "id": 12
     },
@@ -143,11 +143,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "17",
-        "STATE_NAME": "Illinois",
         "color": "red",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 3,
+        "roomID": "G-2"
       },
       "id": 17
     },
@@ -189,11 +189,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "27",
-        "STATE_NAME": "Minnesota",
         "color": "orange",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 4,
+        "roomID": "G-3"
       },
       "id": 27
     },
@@ -235,11 +235,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "24",
-        "STATE_NAME": "Maryland",
         "color": "purple",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 5,
+        "roomID": "G-4"
       },
       "id": 24
     },
@@ -285,11 +285,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "44",
-        "STATE_NAME": "Rhode Island",
         "color": "yellow",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 6,
+        "roomID": "G-7"
       },
       "id": 44
     },
@@ -335,11 +335,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "16",
-        "STATE_NAME": "Idaho",
         "color": "brown",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 7,
+        "roomID": "G-5"
       },
       "id": 16
     },
@@ -381,11 +381,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "33",
-        "STATE_NAME": "New Hampshire",
         "color": "#D93B19",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 8,
+        "roomID": "G-6"
       },
       "id": 33
     },
@@ -447,11 +447,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "37",
-        "STATE_NAME": "North Carolina",
         "color": "#A2D919",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 9,
+        "roomID": "G-8"
       },
       "id": 37
     },
@@ -505,11 +505,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "50",
-        "STATE_NAME": "Vermont",
         "color": "#D19B9D9",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 10,
+        "roomID": "G-9"
       },
       "id": 50
     },
@@ -575,11 +575,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "09",
-        "STATE_NAME": "Connecticut",
         "color": "#D93B19",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 11,
+        "roomID": "G-10"
       },
       "id": 9
     },
@@ -617,11 +617,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "10",
-        "STATE_NAME": "Delaware",
         "color": "rgb(25, 217, 165)",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 12,
+        "roomID": "G-10A"
       },
       "id": 10
     },
@@ -659,11 +659,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "35",
-        "STATE_NAME": "New Mexico",
         "color": "rgb(142, 25, 217)",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 13,
+        "roomID": "G-10B"
       },
       "id": 35
     },
@@ -717,11 +717,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "06",
-        "STATE_NAME": "California",
         "color": "rgb(199, 0, 57)",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 14,
+        "roomID": "G-10C"
       },
       "id": 6
     },
@@ -799,11 +799,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "34",
-        "STATE_NAME": "New Jersey",
         "color": "rgb(255, 195, 0)",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 15,
+        "roomID": "G-14"
       },
       "id": 34
     },
@@ -841,11 +841,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "55",
-        "STATE_NAME": "Wisconsin",
         "color": "rgb(217, 182, 25)",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 16,
+        "roomID": "G-14A"
       },
       "id": 55
     },
@@ -899,11 +899,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "41",
-        "STATE_NAME": "Oregon",
         "color": "#D97319",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 17,
+        "roomID": "G-14B"
       },
       "id": 41
     },
@@ -949,11 +949,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "31",
-        "STATE_NAME": "Nebraska",
         "color": "#DAF7A6",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 18,
+        "roomID": "G-17"
       },
       "id": 31
     },
@@ -995,11 +995,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "42",
-        "STATE_NAME": "Pennsylvania",
         "color": "#581845",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 19,
+        "roomID": "G-17A"
       },
       "id": 42
     },
@@ -1057,11 +1057,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "53",
-        "STATE_NAME": "Washington",
         "color": "#448A68",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 20,
+        "roomID": "G-19"
       },
       "id": 53
     },
@@ -1119,11 +1119,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "22",
-        "STATE_NAME": "Louisiana",
         "color": "#44778A",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 21,
+        "roomID": "G-20"
       },
       "id": 22
     },
@@ -1193,11 +1193,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "13",
-        "STATE_NAME": "Georgia",
         "color": "#44548A",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 22,
+        "roomID": "G-21"
       },
       "id": 13
     },
@@ -1279,11 +1279,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "01",
-        "STATE_NAME": "Alabama",
         "color": "#4E448A",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 23,
+        "roomID": "G-22"
       },
       "id": 1
     },
@@ -1337,11 +1337,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "49",
-        "STATE_NAME": "Utah",
         "color": "#8A4480",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 24,
+        "roomID": "G-24"
       },
       "id": 49
     },
@@ -1387,11 +1387,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "39",
-        "STATE_NAME": "Ohio",
         "color": "#491617",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 25,
+        "roomID": "G-25"
       },
       "id": 39
     },
@@ -1437,11 +1437,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "48",
-        "STATE_NAME": "Texas",
         "color": "#16492F",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 26,
+        "roomID": "G-23"
       },
       "id": 48
     },
@@ -1479,11 +1479,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "08",
-        "STATE_NAME": "Colorado",
         "color": "#8A7144",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 27,
+        "roomID": "G-26"
       },
       "id": 8
     },
@@ -1521,11 +1521,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "45",
-        "STATE_NAME": "South Carolina",
         "color": "#D1B585",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 28,
+        "roomID": "G-27"
       },
       "id": 45
     },
@@ -1563,11 +1563,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "40",
-        "STATE_NAME": "Oklahoma",
         "color": "#C7D185",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 29,
+        "roomID": "G-28"
       },
       "id": 40
     },
@@ -1629,11 +1629,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "47",
-        "STATE_NAME": "Tennessee",
         "color": "#A1D185",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 30,
+        "roomID": "G-29"
       },
       "id": 47
     },
@@ -1679,11 +1679,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "15",
-        "STATE_NAME": "Hawaii",
         "color": "#85D18F",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 31,
+        "roomID": "G-30"
       },
       "id": 15
     },
@@ -1753,11 +1753,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "38",
-        "STATE_NAME": "North Dakota",
         "color": "#85D1B5",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 32,
+        "roomID": "G-31"
       },
       "id": 38
     },
@@ -1803,11 +1803,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "21",
-        "STATE_NAME": "Kentucky",
         "color": "#85C7D1",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 33,
+        "roomID": "G-32"
       },
       "id": 21
     },
@@ -1861,11 +1861,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "78",
-        "STATE_NAME": "United States Virgin Islands",
         "color": "#85D1A0",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 34,
+        "roomID": "G-32A"
       },
       "id": 78
     },
@@ -1935,11 +1935,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "69",
-        "STATE_NAME": "Commonwealth of the Northern Mariana Islands",
         "color": "#85D1C6",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 35,
+        "roomID": "G-33"
       },
       "id": 69
     },
@@ -1981,11 +1981,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "66",
-        "STATE_NAME": "Guam",
         "color": "#85B6D1",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 36,
+        "roomID": "G-34"
       },
       "id": 66
     },
@@ -2027,11 +2027,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "23",
-        "STATE_NAME": "Maine",
         "color": "#8590D1",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 37,
+        "roomID": "G-35"
       },
       "id": 23
     },
@@ -2077,11 +2077,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "36",
-        "STATE_NAME": "New York",
         "color": "#A085D1",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 38,
+        "roomID": "G-36"
       },
       "id": 36
     },
@@ -2143,11 +2143,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "32",
-        "STATE_NAME": "Nevada",
         "color": "#C685D1",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 39,
+        "roomID": "G-37"
       },
       "id": 32
     },
@@ -2185,11 +2185,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "02",
-        "STATE_NAME": "Alaska",
         "color": "#6A3264",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 40,
+        "roomID": "G-38"
       },
       "id": 2
     },
@@ -2227,11 +2227,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "60",
-        "STATE_NAME": "American Samoa",
         "color": "#6A3248",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 41,
+        "roomID": "G-38A"
       },
       "id": 60
     },
@@ -2309,11 +2309,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "26",
-        "STATE_NAME": "Michigan",
         "color": "#6A3832",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 42,
+        "roomID": "G-39A"
       },
       "id": 26
     },
@@ -2351,11 +2351,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "05",
-        "STATE_NAME": "Arkansas",
         "color": "#6A5432",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 43,
+        "roomID": "G-40"
       },
       "id": 5
     },
@@ -2393,11 +2393,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "28",
-        "STATE_NAME": "Mississippi",
         "color": "#646A32",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 44,
+        "roomID": "G-40A"
       },
       "id": 28
     },
@@ -2435,11 +2435,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "29",
-        "STATE_NAME": "Missouri",
         "color": "#486A32",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 45,
+        "roomID": "G-40B"
       },
       "id": 29
     },
@@ -2477,11 +2477,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "30",
-        "STATE_NAME": "Montana",
         "color": "#EF00D6",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 46,
+        "roomID": "G-40C"
       },
       "id": 30
     },
@@ -2643,11 +2643,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "20",
-        "STATE_NAME": "Kansas",
         "color": "#EF005E",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 47,
+        "roomID": "G-46"
       },
       "id": 20
     },
@@ -2697,11 +2697,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "18",
-        "STATE_NAME": "Indiana",
         "color": "#EF1900",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 48,
+        "roomID": "G-47"
       },
       "id": 18
     },
@@ -2755,11 +2755,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "72",
-        "STATE_NAME": "Puerto Rico",
         "color": "#EF9100",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 49,
+        "roomID": "G-48"
       },
       "id": 72
     },
@@ -2809,11 +2809,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "46",
-        "STATE_NAME": "South Dakota",
         "color": "#D6EF00",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 50,
+        "roomID": "G-49"
       },
       "id": 46
     },
@@ -2867,11 +2867,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "25",
-        "STATE_NAME": "Massachusetts",
         "color": "#5FEF00",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 51,
+        "roomID": "G-50"
       },
       "id": 25
     },
@@ -2925,11 +2925,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "51",
-        "STATE_NAME": "Virginia",
         "color": "#EF0000",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 52,
+        "roomID": "G-53"
       },
       "id": 51
     },
@@ -2971,11 +2971,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "11",
-        "STATE_NAME": "District of Columbia",
         "color": "#EF7800",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 53,
+        "roomID": "G-54"
       },
       "id": 11
     },
@@ -3017,11 +3017,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "19",
-        "STATE_NAME": "Iowa",
         "color": "#EFEF00",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 54,
+        "roomID": "G-55"
       },
       "id": 19
     },
@@ -3079,11 +3079,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "04",
-        "STATE_NAME": "Arizona",
         "color": "#78EF00",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 55,
+        "roomID": "G-53A"
       },
       "id": 4
     },
@@ -3121,11 +3121,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "80",
-        "STATE_NAME": "Test80",
         "color": "#00EF00",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 56,
+        "roomID": "G-53B"
       },
       "id": 80
     },
@@ -3163,11 +3163,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "81",
-        "STATE_NAME": "Test81",
         "color": "#00EF78",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 57,
+        "roomID": "G-53C"
       },
       "id": 81
     },
@@ -3213,11 +3213,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "82",
-        "STATE_NAME": "Test82",
         "color": "#91EF00",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 58,
+        "roomID": "G-64"
       },
       "id": 82
     },
@@ -3255,11 +3255,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "83",
-        "STATE_NAME": "Test83",
         "color": "#0019EF",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 59,
+        "roomID": "G-64A"
       },
       "id": 83
     },
@@ -3297,11 +3297,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "84",
-        "STATE_NAME": "Test84",
         "color": "#0091EF",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 60,
+        "roomID": "G-64B"
       },
       "id": 84
     },
@@ -3339,11 +3339,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "85",
-        "STATE_NAME": "Test85",
         "color": "#00EF5E",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 61,
+        "roomID": "G-31"
       },
       "id": 85
     },
@@ -3381,11 +3381,11 @@
         ]
       },
       "properties": {
-        "STATE_ID": "86",
-        "STATE_NAME": "Test86",
         "color": "#EF0048",
         "height": 3,
-        "base_height": 0
+        "base_height": 0,
+        "micadID": 62,
+        "roomID": "G-22A"
       },
       "id": 86
     }
