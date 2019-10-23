@@ -5,7 +5,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "area"
+        "Name": "area",
+        "color": "green",
+        "height": 5,
+        "base_height": "0"
       },
       "geometry": {
         "type": "MultiPolygon",
