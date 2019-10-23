@@ -6,7 +6,7 @@
       "type": "Feature",
       "properties": {
         "Name": "area",
-        "color": "green",
+        "color": "blue",
         "height": 5,
         "base_height": "0"
       },
