@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "color": "blue",
+        "height": 5,
+        "base_height": "0"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
