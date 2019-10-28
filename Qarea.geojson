@@ -6,8 +6,8 @@
       "type": "Feature",
       "properties": {
         "Name": "area",
-        "color": "blue",
-        "height": 5,
+        "color": "green",
+        "height": 10,
         "base_height": "0"
       },
       "geometry": {
